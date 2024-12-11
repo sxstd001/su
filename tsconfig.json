@@ -1,4 +1,4 @@
-{
+{ 
   "extends": [
     "./client/tsconfig.node.json",
     "./common/tsconfig.json",
